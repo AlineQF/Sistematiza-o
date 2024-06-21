@@ -11,7 +11,9 @@ Esse projeto para gerenciar o cadastramento de novos empregados na empresa.
 
 <h1>Como Usar</h1> 
 <strong>Execução:</strong> Clone ou baixe este repositório, em seguida importe o projeto em seu ambiente de desenvolvimento Java, e execute a classe "Main" para iniciar o código. 
-<strong>Adicionar Empregado:</strong> Preencher os campos de atributos sobre as respectivas referências do novo empregado, e em seguida clicar no botão "Adicionar Empregado". Isso fará com que os dados do novo empregado irá pro banco de dados, indo automaticamente para a "Lista de Empregados"
+
+<strong>Adicionar Empregado:</strong> Preencher os campos de atributos sobre as respectivas referências do novo empregado, e em seguida clicar no botão "Adicionar Empregado". Isso fará com que os dados do novo empregado irá pro banco de dados, indo automaticamente para a "Lista de Empregados". 
+
 <strong>Lista de Empregados:</strong> Ao clicar no botão "Listas de Empregado" irá abrir uma lista com todos os dados dos empregados já cadastrado.
 <h1>Requisitos</h1> 
 <ul>
